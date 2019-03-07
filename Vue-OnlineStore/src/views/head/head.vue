@@ -1,4 +1,4 @@
-<template>
+<template xmlns="http://www.w3.org/1999/html">
   <div id="header" class="new_header">
     <div class="hd_bar">
         <div class="bd_bar_bd cle">
@@ -31,7 +31,7 @@
     <div class="hd_main cle">
         <div class="logo">
         <router-link to="/app/home/index" class="lizi_logo">
-            <img src="../../static/images/head/logo.gif" alt="慕学生鲜商城">
+            <img src="../../static/images/head/logo.gif" alt="Thomas 生鲜超市">
         </router-link>
 
         </div>
@@ -71,7 +71,8 @@
                     </a>
                     <div class="main_cata" id="J_mainCata" v-show="showAllmenu">
                         <ul>
-                            <li class="first" v-for="(item,index) in allMenuLabel" @mouseover="overChildrenmenu(index)" @mouseout="outChildrenmenu(index)">
+                            <li class="first" v-for="(item,index) in allMenuLabel"
+                                @mouseover="overChildrenmenu(index)" @mouseout="outChildrenmenu(index)">
                               <h3 style="background:url(../images/1449088788518670880.png) 20px center no-repeat;">
                                 <router-link :to="'/app/home/list/'+item.id">{{item.name}}</router-link> </h3>
                                 <div class="J_subCata" id="J_subCata" v-show="showChildrenMenu ===index"  style=" left: 215px; top: 0px;">
@@ -83,7 +84,9 @@
                                           </dt>
 
                                           <dd>
-                                            <router-link  v-for="childrenList in list.sub_cat" :key="childrenList.id" :to="'/app/home/list/'+childrenList.id">{{childrenList.name}}</router-link>
+                                            <router-link  v-for="childrenList in list.sub_cat"
+                                                          :key="childrenList.id" :to="'/app/home/list/'+childrenList.id">
+                                              {{childrenList.name}}</router-link>
                                           </dd>
                                         </dl>
                                         <div class="clear"></div>
@@ -135,7 +138,9 @@
     </div>
     </div>
 </template>
+
 <script>
+
 import { mapGetters } from 'vuex';
 import cookie from '../../static/js/cookie';
 import { getHotSearch, getCategory ,deleteShopCart } from  '../../api/api'
@@ -145,7 +150,7 @@ export default {
             hotSearch:[],//热词
             searchWord:'',//搜索词
             showAllmenu:false,//菜单显示控制
-            allMenuLabel:[],//菜单
+            allMenuLabel:"",//菜单
             showChildrenMenu:-1,//菜单显示控制
             showShopCar:false,//购物车显示控制
             isShowVip:false,
@@ -157,6 +162,7 @@ export default {
           userInfo:'userInfo'
         })
     },
+
     methods:{
         loginOut(){
             // this.$http.get('/getMenu')
@@ -213,32 +219,41 @@ export default {
           getCategory({
             params:{}
           }).then((response)=> {
-                    console.log(response)
-                    this.allMenuLabel = response.data
+                    console.log("response.data = ------------------");
+                    console.log(this.allMenuLabel);
+                    this.allMenuLabel = response.data.results;
+                    console.log("[response.data] = ------------------this.allMenuLabel");
+                    console.log(this.allMenuLabel);
+                })
+            .catch(function (error) {
+              console.log(error);
+            });
+        },
+
+        getHotSearch(){//获取热搜
+          getHotSearch()
+                .then((response)=> {
+                    this.hotSearch = response.data.results
                 })
                 .catch(function (error) {
                   console.log(error);
                 });
         },
-        getHotSearch(){//获取热搜
-          getHotSearch()
-                .then((response)=> {
-                    this.hotSearch = response.data
-                })
-                .catch(function (error) {
-                  console.log(error);
-                });
-        }
+
     },
+
+
     created(){
         this.getMenu()//获取菜单
         this.getHotSearch()//获取热词
+
         // 更新store数据
         this.$store.dispatch('setShopList');//获取购物车数据
     },
 
 }
 </script>
+
 <style scoped  lang='scss'>
 html {
     background:#fafafa;

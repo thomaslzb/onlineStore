@@ -63,7 +63,7 @@
                 .then((response)=> {
                    //跳转到首页页response.body面
                   console.log(response)
-                    this.list = response.data
+                    this.list = response.data.results
                 })
                 .catch(function (error) {
                   console.log(error);

@@ -2,13 +2,114 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e83430fe-9530-467c-a501-7aed71df860f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/apps/goods/filters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/goods/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/mock/mock.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/mock/mock.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/mock/mock/banner.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/mock/mock/banner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/mock/mock/hotSearch.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/mock/mock/hotSearch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/mock/mock/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/mock/mock/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/mock/mock/newOpro.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/mock/mock/newOpro.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/npm-debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/npm-debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/npm-debug.log.2197190737" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/npm-debug.log.283254658" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/npm-debug.log.2984282014" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/postcss.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/postcss.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/api/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/api/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/api/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/axios/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/axios/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/associateFile/associateFile.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/associateFile/associateFile.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/cloud-cooperation/cloud-cooperation.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/cloud-cooperation/cloud-cooperation.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/contextmenu/contextmenu.css" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/contextmenu/contextmenu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/contextmenu/contextmenu.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/contextmenu/contextmenu.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/contextmenu/contextmenu2.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/contextmenu/contextmenu2.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/contextmenu/eachContextmenuDom.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/contextmenu/eachContextmenuDom.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/contextmenu/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/contextmenu/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/control/control-bar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/control/control-bar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/current-loc/current-loc.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/current-loc/current-loc.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/drag/drag.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/drag/drag.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/layout/layout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/layout/layout.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/list-nav/listNav.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/list-nav/listNav.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/list-sort/listSort.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/list-sort/listSort.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/loading/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/loading/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/loading/loading.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/loading/loading.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/loading2/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/loading2/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/loading2/loading.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/loading2/loading.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/menu/menu-list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/menu/menu-list.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/nodata/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/nodata/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/nodata/nodata.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/nodata/nodata.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/page/page.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/page/page.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/price-range/priceRange.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/price-range/priceRange.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/product-list/productList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/product-list/productList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/result-list/result-list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/result-list/result-list.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/tag/tag-filter.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/components/common/tag/tag-filter.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/components/heighchart/bar/line-bar/line_bar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/components/heighchart/bar/line-bar/line_bar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/components/heighchart/circle/circle/circle.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/components/heighchart/circle/circle/circle.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/router/getQueryString.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/router/getQueryString.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/static/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/static/fonts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/static/images/login/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/static/images/login/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/static/js/clickoutside.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/static/js/clickoutside.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/static/js/cloneObject.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/static/js/cloneObject.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/static/js/meteor.exec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/static/js/meteor.exec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/static/vendors/iview/dist/iview.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/static/vendors/iview/dist/iview.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/static/vendors/iview/dist/styles/fonts/ionicons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/static/vendors/iview/dist/styles/fonts/ionicons.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/static/vendors/iview/dist/styles/iview.css" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/static/vendors/iview/dist/styles/iview.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/store/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/store/actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/store/getters.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/store/getters.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/store/mutation-types.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/store/mutation-types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/store/mutations.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/store/mutations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/store/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/store/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/styles/_clearfix.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/styles/_clearfix.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/styles/_float.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/styles/_float.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/styles/common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/styles/common.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/styles/confing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/styles/confing.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/styles/fonts/demo.css" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/styles/fonts/demo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/styles/fonts/demo_fontclass.html" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/styles/fonts/demo_fontclass.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/styles/fonts/demo_symbol.html" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/styles/fonts/demo_symbol.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/styles/fonts/demo_unicode.html" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/styles/fonts/demo_unicode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/styles/fonts/iconfont.css" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/styles/fonts/iconfont.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/styles/fonts/iconfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/styles/fonts/iconfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/views/app/app.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/views/app/app.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/views/head/head.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/views/head/head.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/views/home/home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/views/home/home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/views/index/banners.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/views/index/banners.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/views/index/series-list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/views/index/series-list.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/views/list/current-loc/current-loc.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/views/list/current-loc/current-loc.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/views/list/list-nav/listNav.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/views/list/list-nav/listNav.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/views/list/list-sort/listSort.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/views/list/list-sort/listSort.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/views/list/list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/views/list/list.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/views/list/page/page.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/views/list/page/page.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/views/list/price-range/priceRange.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/views/list/price-range/priceRange.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/views/login/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/views/login/login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/views/loginHead/loginHead.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/views/loginHead/loginHead.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/views/member/member-menu.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/views/member/member-menu.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/views/member/member.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/views/member/member.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/views/member/userinfo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/views/member/userinfo.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/views/productDetail/current-loc/current-loc.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/views/productDetail/current-loc/current-loc.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/src/views/productDetail/model.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/src/views/productDetail/model.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-OnlineStore/webpack.prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-OnlineStore/webpack.prod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/goods/filters.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/goods/filters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/goods/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/goods/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/goods/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/goods/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/goods/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/goods/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/users/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_tools/import_goods_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/db_tools/import_goods_data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/onlineStore/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/onlineStore/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/onlineStore/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/onlineStore/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/电商开发纪实.md" beforeDir="false" afterPath="$PROJECT_DIR$/电商开发纪实.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,89 +118,109 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/onlineStore$import_category_data.coverage" NAME="import_category_data Coverage Results" MODIFIED="1547223023784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/onlineStore/db_tools" />
-    <SUITE FILE_PATH="coverage/onlineStore$import_goods_data.coverage" NAME="import_goods_data Coverage Results" MODIFIED="1547223360104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/onlineStore/db_tools" />
+    <SUITE FILE_PATH="coverage/OnlineStore$product_data.coverage" NAME="product_data Coverage Results" MODIFIED="1548791641451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db_tools/data" />
+    <SUITE FILE_PATH="coverage/OnlineStore$import_category_data__1_.coverage" NAME="import_category_data (1) Coverage Results" MODIFIED="1548772925563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db_tools" />
+    <SUITE FILE_PATH="coverage/OnlineStore$import_goods_data__1_.coverage" NAME="import_goods_data (1) Coverage Results" MODIFIED="1548791852992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db_tools" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+        <item name="goods_goods: table" type="ffe0bd85:SqliteImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+        <item name="goods_goodscategory: table" type="ffe0bd85:SqliteImplModel$Table" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-623874681">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.19" value="2" />
-          <entry key="project.open.time.21" value="3" />
-          <entry key="project.open.time.40" value="1" />
-          <entry key="project.opened" value="7" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="CommandLine" value="110" />
-          <entry key="HTML" value="11" />
-          <entry key="PLAIN_TEXT" value="98" />
-          <entry key="Python" value="979" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="HTML" value="2" />
-          <entry key="Python" value="113" />
-        </counts>
-      </usages-collector>
-    </session>
     <session id="179107648">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.24" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="1151" />
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="6" />
+          <entry key="Database Element" value="2" />
+          <entry key="Python" value="10" />
+          <entry key="Scratch" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CommandLine" value="7" />
+          <entry key="Python" value="331" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/onlineStore/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+            <state relative-caret-position="-836">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
               <folding>
-                <element signature="e#312#321#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/onlineStore/urls.py">
+        <entry file="file://$PROJECT_DIR$/apps/users/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apps/goods/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="63" column="13" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="13" />
+            <state relative-caret-position="304">
+              <caret line="16" column="24" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="24" />
               <folding>
-                <element signature="e#0#29#0" expanded="true" />
+                <element signature="e#0#53#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -108,35 +229,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apps/goods/serializers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
-              <folding>
-                <element signature="e#0#38#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/apps/goods/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="e#0#33#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="228">
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apps/goods/filters.py">
+        <entry file="file://$PROJECT_DIR$/apps/goods/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="619">
+              <caret line="69" column="14" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/goods/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="36" column="7" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -168,18 +280,20 @@
       <find>REVERSION</find>
       <find>web</find>
       <find>DjangoUeditor</find>
+      <find>api</find>
+      <find>/api/categories</find>
+      <find>get_ad_goods</find>
     </findStrings>
     <replaceStrings>
       <replace>django.urls</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/onlineStore" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/onlineStore/apps/user_operation/adminx.py" />
         <option value="$PROJECT_DIR$/onlineStore/apps/trade/adminx.py" />
         <option value="$PROJECT_DIR$/onlineStore/apps/goods/adminx.py" />
         <option value="$PROJECT_DIR$/onlineStore/apps/goods/apps.py" />
@@ -218,20 +332,26 @@
         <option value="$PROJECT_DIR$/onlineStore/apps/goods/models.py" />
         <option value="$PROJECT_DIR$/onlineStore/db_tools/import_category_data.py" />
         <option value="$PROJECT_DIR$/onlineStore/db_tools/import_goods_data.py" />
-        <option value="$PROJECT_DIR$/db_tools/import_category_data.py" />
         <option value="$PROJECT_DIR$/extra_apps/DjangoUeditor/templates/ueditor.html" />
-        <option value="$PROJECT_DIR$/db_tools/import_goods_data.py" />
         <option value="$PROJECT_DIR$/extra_apps/xadmin/plugins/ueditor.py" />
-        <option value="$PROJECT_DIR$/apps/goods/models.py" />
         <option value="$PROJECT_DIR$/apps/goods/migrations/0001_initial.py" />
         <option value="$PROJECT_DIR$/apps/goods/migrations/0003_auto_20190110_1545.py" />
-        <option value="$PROJECT_DIR$/onlineStore/urls.py" />
-        <option value="$PROJECT_DIR$/apps/goods/serializers.py" />
-        <option value="$PROJECT_DIR$/onlineStore/settings.py" />
-        <option value="$PROJECT_DIR$/apps/goods/filters.py" />
+        <option value="$PROJECT_DIR$/db_tools/import_category_data.py" />
+        <option value="$PROJECT_DIR$/db_tools/import_goods_data.py" />
+        <option value="$PROJECT_DIR$/apps/goods/models.py" />
         <option value="$PROJECT_DIR$/apps/goods/views.py" />
+        <option value="$PROJECT_DIR$/apps/goods/serializers.py" />
+        <option value="$PROJECT_DIR$/apps/goods/filters.py" />
+        <option value="$PROJECT_DIR$/onlineStore/urls.py" />
+        <option value="$PROJECT_DIR$/apps/users/views.py" />
+        <option value="$PROJECT_DIR$/onlineStore/settings.py" />
       </list>
     </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="onlineStore/invalid/Django" />
+    </ignored-facets>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -247,7 +367,7 @@
       <path value="$PROJECT_DIR$/Vue-OnlineStore/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="25" />
     <option name="width" value="1350" />
     <option name="height" value="690" />
@@ -258,6 +378,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -274,7 +395,18 @@
               <item name="OnlineStore" type="b2602c69:ProjectViewProjectNode" />
               <item name="OnlineStore" type="462c0819:PsiDirectoryNode" />
               <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="goods" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OnlineStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnlineStore" type="462c0819:PsiDirectoryNode" />
+              <item name="db_tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OnlineStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnlineStore" type="462c0819:PsiDirectoryNode" />
+              <item name="db_tools" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OnlineStore" type="b2602c69:ProjectViewProjectNode" />
@@ -285,15 +417,17 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../OnlineCourse" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -321,6 +455,28 @@
     </option>
   </component>
   <component name="RunManager" selected="Django server.onlineStore">
+    <configuration name="import_category_data (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="onlineStore" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db_tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_tools/import_category_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="import_category_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="onlineStore" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -343,6 +499,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="import_goods_data (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="onlineStore" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db_tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_tools/import_goods_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="import_goods_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="onlineStore" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -357,6 +535,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/onlineStore/db_tools/import_goods_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="product_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="onlineStore" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db_tools/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_tools/data/product_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -393,11 +593,15 @@
       <item itemvalue="Django server.onlineStore" />
       <item itemvalue="Python.import_category_data" />
       <item itemvalue="Python.import_goods_data" />
+      <item itemvalue="Python.import_category_data (1)" />
+      <item itemvalue="Python.product_data" />
+      <item itemvalue="Python.import_goods_data (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.import_goods_data" />
-        <item itemvalue="Python.import_category_data" />
+        <item itemvalue="Python.import_goods_data (1)" />
+        <item itemvalue="Python.product_data" />
+        <item itemvalue="Python.import_category_data (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -411,8 +615,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546956998289</updated>
+      <workItem from="1548434249006" duration="722000" />
+      <workItem from="1548512561264" duration="81000" />
     </task>
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="803000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -426,13 +635,13 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20604026" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17449665" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30921987" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4822695" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
@@ -443,10 +652,11 @@
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.32907802" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.32907802" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Database" order="3" weight="0.15503356" />
       <window_info anchor="right" id="SciView" order="4" />
     </layout>
   </component>
@@ -460,84 +670,13 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/onlineStore/urls.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="4" />
+          <url>file://$PROJECT_DIR$/onlineStore/settings.py</url>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../Venv/onlinestore/Lib/site-packages/django/urls/conf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="75" selection-start-line="75" selection-end-line="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extra_apps/xadmin/filters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="395" column="48" lean-forward="true" selection-start-line="395" selection-start-column="48" selection-end-line="395" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extra_apps/xadmin/plugins/filters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="68" column="17" lean-forward="true" selection-start-line="68" selection-start-column="17" selection-end-line="68" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extra_apps/xadmin/plugins/details.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extra_apps/xadmin/plugins/inline.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="270" column="37" selection-start-line="270" selection-start-column="37" selection-end-line="270" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extra_apps/xadmin/views/list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="546" column="44" selection-start-line="546" selection-start-column="44" selection-end-line="546" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extra_apps/xadmin/plugins/editable.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="100" column="25" lean-forward="true" selection-start-line="100" selection-start-column="25" selection-end-line="100" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extra_apps/xadmin/views/detail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="101" column="28" lean-forward="true" selection-start-line="101" selection-start-column="28" selection-end-line="101" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extra_apps/xadmin/plugins/quickfilter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="72" column="17" lean-forward="true" selection-start-line="72" selection-start-column="17" selection-end-line="72" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Venv/onlinestore/Lib/site-packages/django/views/i18n.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="196" column="4" selection-start-line="196" selection-start-column="4" selection-end-line="196" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/extra_apps/xadmin/plugins/relfield.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="53">
@@ -609,9 +748,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="342" column="11" lean-forward="true" selection-start-line="342" selection-start-column="11" selection-end-line="342" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -658,9 +794,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db_tools/data/product_data.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/extra_apps/DjangoUeditor/settings.py" />
     <entry file="file://$PROJECT_DIR$/extra_apps/DjangoUeditor/views.py" />
     <entry file="file://$PROJECT_DIR$/extra_apps/DjangoUeditor/utils.py" />
@@ -668,27 +801,10 @@
     <entry file="file://$PROJECT_DIR$/extra_apps/DjangoUeditor/commands.py" />
     <entry file="file://$PROJECT_DIR$/extra_apps/DjangoUeditor/templates/ueditor.html" />
     <entry file="file://$PROJECT_DIR$/extra_apps/DjangoUeditor/widgets.py" />
-    <entry file="file://$PROJECT_DIR$/db_tools/import_goods_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#45#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/extra_apps/xadmin/plugins/ueditor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db_tools/import_category_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -703,9 +819,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="129">
           <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
-          <folding>
-            <element signature="e#47#74#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -716,13 +829,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../Venv/onlinestore/Lib/site-packages/rest_framework/generics.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../Venv/onlinestore/Lib/site-packages/rest_framework/viewsets.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
@@ -730,47 +836,103 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Vue-OnlineStore/src/axios/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue-OnlineStore/mock/mock.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://ce9f2c80-ddd3-487a-808e-d5b18dcb5cb2/schema/main/table/goods_goodscategory">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_tools/data/category_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="617" column="22" lean-forward="true" selection-start-line="617" selection-start-column="22" selection-end-line="617" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_tools/import_category_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ce9f2c80-ddd3-487a-808e-d5b18dcb5cb2/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_tools/data/product_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://ce9f2c80-ddd3-487a-808e-d5b18dcb5cb2/schema/main/table/goods_goods">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_tools/import_goods_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Venv/onlinestore/Lib/site-packages/rest_framework/filters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1749">
+          <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Venv/onlinestore/Lib/site-packages/rest_framework/generics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="44" column="4" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MyResource/Python前后端分离开发生鲜项目Vue+Django REST framework实战/project/MxShop/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="131" selection-start-line="131" selection-end-line="134" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/onlineStore/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/goods/serializers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+        <state relative-caret-position="589">
+          <caret line="43" column="37" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
           <folding>
-            <element signature="e#0#38#0" expanded="true" />
+            <element signature="e#25#62#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/onlineStore/settings.py">
+    <entry file="file://$PROJECT_DIR$/../../Venv/onlinestore/Lib/site-packages/django/db/models/manager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-          <folding>
-            <element signature="e#312#321#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/goods/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="63" column="13" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1645">
+          <caret line="176" selection-start-line="176" selection-end-line="176" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/goods/filters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        <state relative-caret-position="152">
+          <caret line="10" column="87" selection-start-line="10" selection-start-column="87" selection-end-line="10" selection-end-column="87" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
@@ -779,10 +941,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/goods/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="399">
+          <caret line="36" column="7" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/goods/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="69" column="14" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/goods/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/users/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="24" />
           <folding>
-            <element signature="e#0#33#0" expanded="true" />
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/onlineStore/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-836">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>

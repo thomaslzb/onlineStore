@@ -42,8 +42,8 @@
                 proNum: 0, //商品数量
                 curLoc: [], //当前位置
                 priceRange: [], //价格区间
-                pricemin: '', //价格最低
-                pricemax: '', //价格最高
+                price_min: '', //价格最低
+                price_max: '', //价格最高
                 pageType:'list',
                 searchWord:'',
                 currentCategoryName:''
@@ -103,8 +103,8 @@
                     page: this.curPage, //当前页码
                     top_category: this.top_category, //商品类型
                     ordering: this.ordering, //排序类型
-                    pricemin: this.pricemin, //价格最低 默认为‘’ 即为不选价格区间
-                    pricemax: this.pricemax // 价格最高 默认为‘’
+                    price_min: this.price_min, //价格最低 默认为‘’ 即为不选价格区间
+                    price_max: this.price_max // 价格最高 默认为‘’
                   }).then((response)=> {
 
                     this.listData = response.data.results;
@@ -127,7 +127,7 @@
                   });
                 }else {
                   getCategory({}).then((response)=> {
-                    this.cateMenu = response.data;
+                    this.cateMenu = response.data.results;
                     this.isObject = false
                   }).catch(function (error) {
                     console.log(error);
@@ -143,7 +143,7 @@
                     }
                 }).then((response)=> {
 
-                    this.curLoc = response.data;
+                    this.curLoc = response.data.results;
                 }).catch(function (error) {
                     console.log(error);
                 });
@@ -167,8 +167,8 @@
 
             },
             changePrice (data) {
-                this.pricemin = data.min;
-                this.pricemax = data.max;
+                this.price_min = data.min;
+                this.price_max = data.max;
                 this.getListData();
             },
             changeMenu (id) {
